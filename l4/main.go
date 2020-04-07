@@ -7,9 +7,9 @@ package main
 
 import (
 	"fmt"
+	"regexp"
 	"sort"
 	"strings"
-	"regexp"
 )
 
 type kv struct {
